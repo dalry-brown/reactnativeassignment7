@@ -1,3 +1,1 @@
-# NavWord
-# random
-# random
+# reactnativeassignment7
